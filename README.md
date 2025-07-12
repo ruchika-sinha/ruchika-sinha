@@ -8,8 +8,10 @@ I'm recognized for my Web Development skills !!
 - 🌡 I'm good with technologies such as HTML, CSS, Bootstrap, Javascript(ES6+), Typescript, ReactJS, Tailwind CSS, NodeJS, REST API
 - 🌢 I'm currenly learning more about backend technologies such as NodeJS & MongoDB.  
 - 🌣  I’m looking for an opportunity to implement my skills and broaden my expertise.
-- 🌤 My projects are available in [here](https://github.com/ruchika-sinha?tab=repositories) 
-- 💭 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ruchika-sinha-profile/)  
+- 🌤 My projects are available in [here](https://github.com/ruchika-sinha?tab=repositories)
+- 📝 Check out my medium blog [here](https://medium.com/@ruchika.ggia/how-to-become-a-front-end-developer-in-2024-a-complete-roadmap-c95c9c7a365f)
+- 💭 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ruchika-sinha-profile/)
+  
 
 ## Connect with me:
 
