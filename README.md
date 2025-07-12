@@ -10,8 +10,6 @@ I'm recognized for my Web Development skills !!
 - 🌣  I’m looking for an opportunity to implement my skills and broaden my expertise.
 - 🌤 My projects are available in [here](https://github.com/ruchika-sinha?tab=repositories)
 - 📝 Check out my medium blog [here](https://medium.com/@ruchika.ggia/how-to-become-a-front-end-developer-in-2024-a-complete-roadmap-c95c9c7a365f)
-- Check out my slideshare account where I have made some basic presentation [here](https://www.slideshare.net/RuchikaSinha10)
-- Check out my CodePen account where I have made some more projects [here](https://codepen.io/your-work/)
 - 💭 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ruchika-sinha-profile/)
   
 
