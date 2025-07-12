@@ -1,11 +1,10 @@
-# Your Name
-ruchika-sinha
+# Ruchika Sinha
 
 Hi there, My name is Ruchika Sinha 😊
 
 I'm recognized for my Web Development skills !!
 
-- ✅ Seasoned Web Developer with over equivalent 3 years of hands-on experience in crafting scalable, robust, visually appealing and highly functional web applications.
+- ✅ Seasoned Web Developer with equivalent to 3 years of hands-on experience in crafting scalable, robust, visually appealing and highly functional web applications.
 - 🌡 I'm good with technologies such as HTML, CSS, Bootstrap, Javascript(ES6+), Typescript, ReactJS, Tailwind CSS, NodeJS, REST API
 - 🌢 I'm currenly learning more about backend technologies such as NodeJS & MongoDB.  
 - 🌣  I’m looking for an opportunity to implement my skills and broaden my expertise.
